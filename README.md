@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [1301-number-of-paths-with-max-score](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
