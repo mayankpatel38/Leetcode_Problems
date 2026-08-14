@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
