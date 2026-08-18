@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0035-search-insert-position) |
+| [0486-predict-the-winner](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0007-reverse-integer) |
+| [0486-predict-the-winner](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
@@ -61,4 +64,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
