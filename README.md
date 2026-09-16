@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
 | ------- |
