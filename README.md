@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mayankpatel38/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
